@@ -1,12 +1,12 @@
 # A Basic Go Learning Repo
 
-This repository contains simple Go programs and examples for learning and practicing Go programming concepts.
+This repository contains sismple Go programs and examples for learning and practicing Go programming concepts.
 
 ## Contents
 
 - Basic syntax and structure
 - Functions and variables
-- Control flow (if, for, switch)
+- Control flow (if, for, switch)dds
 - Structs and interfaces
 - Packages and modules
 
