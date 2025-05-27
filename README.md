@@ -23,3 +23,5 @@ This repository contains simple Go programs and examples for learning and practi
 ## License
 
 The Unlicensed (Public Domain Dedication)
+
+## Contributing
